@@ -9,8 +9,8 @@
 
 ## 🧰 Skills
 
-**Languages & Querying:** Python, SQL, PostgreSQL
-**Analysis & ML:** pandas, NumPy, scikit-learn, time-series forecasting, classification
-**Visualisation:** Tableau, Power BI
-**Data Quality:** Validation frameworks, anomaly detection, root-cause analysis
-**Workflow:** Git, Jupyter, Jira
+- **Languages & Querying:** Python, SQL, PostgreSQL
+- **Analysis & ML:** pandas, NumPy, scikit-learn, time-series forecasting, classification
+- **Visualisation:** Tableau, Power BI
+- **Data Quality:** Validation frameworks, anomaly detection, root-cause analysis
+- **Workflow:** Git, Jupyter, Jira
